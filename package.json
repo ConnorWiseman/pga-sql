@@ -1,6 +1,6 @@
 {
   "name": "pga-sql",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A template tagging function that returns an object compatible with the pg module's querying methods.",
   "author": "ConnorWiseman",
   "homepage": "https://github.com/ConnorWiseman/pga-sql#readme",
